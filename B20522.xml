@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The depositions of William Collet, tallow-chandler, Mary his wife, Joseph Larke his journy-man, Ann Larke Wife of the said Joseph, Francis Read and John Sisum his apprentices, Mary Selby his maid servant, Lewis Picket and Thomas Allen, lodgers in his house, and Robert Parker a watchman, taken an oath before me Richard Rider esq; one of his Majesty's Justices of the Peace for the county of Middlesex, and liberty of the city of Westminster, this seven and twentieth day of April, anno Dom. 1700.</title>
+            <author>Collet, William.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20522</idno><idno type="EEBO-CITATION">99886927</idno>
+  <idno type="VID">189672</idno>
+  <idno type="EEBO-PROQUEST">2248537519</idno>
+  
+            <idno type="STC">Wing C5236</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[179]</idno>
+            <idno type="STC">ESTC R226784</idno>
+            <idno type="PROQUEST">ocm99886927</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886927e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189672)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[180])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The depositions of William Collet, tallow-chandler, Mary his wife, Joseph Larke his journy-man, Ann Larke Wife of the said Joseph, Francis Read and John Sisum his apprentices, Mary Selby his maid servant, Lewis Picket and Thomas Allen, lodgers in his house, and Robert Parker a watchman, taken an oath before me Richard Rider esq; one of his Majesty's Justices of the Peace for the county of Middlesex, and liberty of the city of Westminster, this seven and twentieth day of April, anno Dom. 1700.</title>
+                  <author>Collet, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>At head of title: Whereas there has been unjust and malicious reflections cast upon the undermention'd William Collet, in relation to the late fire that hapned in his house: these depositions (by the advice of friends) are made publick to undeceive those that have listen'd to those false insinuations, and that the whole truth might more plainly appear.</note>
+                  <note>Imperfect: damaged at foot affecting text and imprint[?].</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fires --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189672:1"/>
+            <pb facs="tcp:189672:1"/>
+            <p>Whereas there has been unjust and malicious Reflections cast upon the undermention'd <hi>William Collet,</hi> in Relation to the late Fire that hapned in his House: These Depo<g ref="char:EOLhyphen"/>sitions (by the Advice of Friends) are made publick to undeceive those that have listen'd to those false Insinuations, and that the whole Truth might more plainly appear.</p>
+            <div type="depositions">
+               <head>THE DEPOSITIONS OF <hi>William Collet,</hi> Tallow-Chandler, <hi>Mary</hi> his Wife, <hi>Joseph Larke</hi> his Journy-man, <hi>Ann Larke</hi> Wife of the said <hi>Jo<g ref="char:EOLhyphen"/>seph, Francis Read</hi> and <hi>John Sisum</hi> his Apprentices, <hi>Ma<g ref="char:EOLhyphen"/>ry Selby</hi> his Maid Servant, <hi>Lewis Picket</hi> and <hi>Thomas Allen,</hi> Lodgers in his House, and <hi>Robert Parker</hi> a Watchman, taken an Oath before me <hi>Richard Rider</hi> Esq; One of his Majesty's Justices of the Peace for the County of <hi>Middle<g ref="char:EOLhyphen"/>sex,</hi> and Liberty of the City of <hi>Westminster,</hi>
+                  <date>this Seven and Twentieth Day of <hi>April, Anno Dom.</hi> 1700.</date>
+               </head>
+               <head type="sub">In Relation to the late Fire which began and hapned in the late Dwelling-House of the said <hi>William Collet,</hi> late standing at the end of <hi>Newport-Street,</hi> in the Parish of St. <hi>Ann, Westminster,</hi> in the County aforesaid.</head>
+               <p>THE said <hi>William Collet, Joseph Lark, Francis Read</hi> and <hi>John Sisum,</hi> severally each of them on their Corporal Oaths do Averr and Say, That on <hi>Wednesday</hi> the Seven<g ref="char:EOLhyphen"/>teenth of <hi>April</hi> Instan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> abovewritten, being the Day next before that Night and Morning in which the said Fire happen'd, they the said Deponents did arise from their Beds at Six of the Clock in the Morning, in order to melt Tallow to make Candles, and did Work that day until Ten of the Clock at Night, and then left work, at which time they, or some of them, did put out all the Fire under the Coppers, and the Tallow then melted (so far as it could be) was all used up: And that the Tallow used that day was on<g ref="char:EOLhyphen"/>ly melted down, and did not Boil or Run over: And that between Eleven and Twelve of the Clock at Night they, these Deponents, were all in Bed, And that none of them, or any Person else, to their knowledge, did lye in the Shop of the said House that Night: And that they did not Boil Tallow at any time but on <hi>Friday</hi> Nights, and Sit up on that Occasion, or in Business, none but those Nights: And that to their knowledge, or belief, there was no Holes, or Cracks, in the Coppers they used, nor was any Notice given to them by any Person what<g ref="char:EOLhyphen"/>soever of any such Holes or Cracks, or Suspicion thereof; and that (altho' amongst divers other untrue Allegations) it is reported, a Fire was like to happen in the said House on <hi>Sun<g ref="char:EOLhyphen"/>day</hi> night then before, and at other times, these Deponents do all of them say, There was not any such Fire like to happen on <hi>Sunday</hi> aforesaid, or at any time before, as they know or have heard, (saving that about Seven Years since, and once before that the Chimnies of the said House hapned to be on fire.)</p>
+               <p>AND the said Deponents <hi>William Collet, Joseph Larke,</hi> and <hi>Francis Read,</hi> do further say, That after an Out-cry of Fire was, they did arise from their Beds, come down Stairs, and see the Shop on Fire, but no Fire in the Cellar of the said House.</p>
+               <p>AND the said <hi>Mary,</hi> the Wife of the said <hi>William Collet,</hi> and <hi>Mary Selby</hi> the Maid Servant, do severally on Oath say, That it was past Twelve of the Clock that Night or Morning, which the said Fire hapned, before they went to their Beds, and at that time did not see or smell any Fire, or Token thereof.</p>
+               <p>AND the said <hi>Ann, Wife</hi> of the said <hi>Thomas Larke,</hi> and <hi>Lewis Pickett,</hi> and <hi>Thomas Allen,</hi> do on their Oath severally say, That they, nor any of them, did not at any time heretofore, see, hear, or know the said House likely to be on Fire, (saving the Chimney hereof afore<g ref="char:EOLhyphen"/>said.)</p>
+               <p>AND the said <hi>Thomas Parker</hi> the Watchman, on his Corporal Oath saith, That he cry'd the Hour of Two in the Morning, before the said House, and did not see no appearance of Fire therein; and that when he perceived the Fire, and was let into the House, the Shop thereof was on Fire, and no other part thereof as he could see.</p>
+               <p>AND all the Deponents abovesaid, do several Averr, and say, on Oath, That they knew not by what ways or means the said Fire did happen; and further say not. Witness their Hands the Day and Year above Written.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>William Collett,</item>
+                        <item>Mary Collett,</item>
+                        <item>Joseph Larke,</item>
+                        <item>Ann Larke,</item>
+                        <item>Francis Read,</item>
+                        <item>John Sisum,</item>
+                        <item>Mary Selby,</item>
+                        <item>Lewis Pickett,</item>
+                        <item>Thomas Allen,</item>
+                        <item>
+                           <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>d <hi>Robert Parker.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript xml:lang="lat">
+                  <p>Jurat per Omn. coram me die &amp; Anno Supra<g ref="char:EOLhyphen"/>script.</p>
+                  <closer>
+                     <signed>R<gap reason="illegible" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap> Rider.</signed>
+                  </closer>
+               </postscript>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
